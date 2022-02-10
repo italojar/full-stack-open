@@ -1,5 +1,6 @@
 const Header = (props) => {
-    return (
+    //console.log(props)
+    return (  
         <h1> {props.course} </h1>
     )
 }
